@@ -1,16 +1,19 @@
-### Hi there 👋
+### Welcome 🚀
 
-<!--
-**henriquebraga/henriquebraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-Green)](https://www.hackerrank.com/h_braga_albor?hr_r=1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/henrique-braga-7583134b/)
+[![gmail](https://img.shields.io/badge/-Gmail-red)](mailto:h.braga.albor@gmail.com?Subject=subject)
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working for Luizalabs as a software engineer;
+- 🌱 I’m currently learning algorithm and data structures more deeply;
+- 🤔 I’m looking for people help to solve problems in hackerrank, leetcode, codility etc (feel free to contact me 😂, I really appreciate pair programming);
+- 🗣️ I love interacting with people about technology subjects, feel free to contact me in LinkedIn or Gmail on the links above.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+⚡ Fun facts about me: 
+
+* I love to teach, learn and talk about different stuff.
+* I love working out. I think it was a game changer for my mindset and how to handle life issues. 
+* Sometimes I write technical stuff on my Medium blog. I usually write in pt-br language because  there's already such good materials in english, so I strongly believe that writing in portuguese might help more people in Brazil, since most of people are not fluent in english, unfortunately 😞.
+* Blue is my favorite color 🟦
+* I love japanese food 🍣
